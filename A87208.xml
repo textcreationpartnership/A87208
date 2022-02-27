@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Iohn Iretons oration at the choosing of the new lord mayor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87208</idno>
+            <idno type="STC">Wing I1035</idno>
+            <idno type="STC">Thomason E1001_14</idno>
+            <idno type="STC">ESTC R202605</idno>
+            <idno type="EEBO-CITATION">99862833</idno>
+            <idno type="PROQUEST">99862833</idno>
+            <idno type="VID">115010</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115010)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E1001[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Iohn Iretons oration at the choosing of the new lord mayor.</title>
+                  <author>Ireton, John, Sir, 1615-1690, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anonymous satire on Ireton.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 31 1659".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireton, John, --  Sir, 1615-1690 --  Early works to 1800.</term>
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:115010:1" rendition="simple:additions"/>
+            <head>Mr. <hi>IOHN IRETONS</hi> ORATION AT The Chooſing of the new LORD MAYOR.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F my fortunes &amp; my deſires had run e<g ref="char:EOLhyphen"/>qually along together, I ſhould not now have ſtood here ſolliciting a <hi>Plaudite</hi> at my <hi>exit;</hi> For I had the Fortune to be Lord Mayor, &amp; to have a Horſe, and trappings for my Horſe, and like<g ref="char:EOLhyphen"/>wiſe for my ſelf; truly I have worldly honours, for Saints may have their ſaylings as well as other
+<pb n="2" facs="tcp:115010:2"/>men: Now you know I might have kept my pre<g ref="char:EOLhyphen"/>eminence a year longer, and for that I may thank the Parliament, but you Petitioned againſt me, for which I am much beholding to you. Verily Ine<g ref="char:EOLhyphen"/>ver thought this City would have proved ſo unfaith<g ref="char:EOLhyphen"/>full to me, I am ſure I well remember when it was otherwiſe: when my brother <hi>Harry</hi> in the behalf of the <hi>Good old Cauſe</hi> was mangled into peices by Gun<g ref="char:EOLhyphen"/>ſhot, that very little if any part at all were left of him, Oh how did you the Grave men of the City wait upon and walk after his empty Coffin! what fine verſes were made upon him! how did the He<g ref="char:EOLhyphen"/>ralds ſtretch their wits, and tenter their invention, to emblazon <hi>his Gentility?</hi> 'Twas even a hard work, verily a hard work, of much time and great labour: and do you imagine I can think of ſuch things with<g ref="char:EOLhyphen"/>out much hugging of my ſelf? it is pretty well known upon what foundation I firſt raiſed the fabrick of my greatneſſe, O tis a fine thing to have <hi>faith,</hi> I had faith and it failed me not, I truſted the <hi>Cavaleers</hi> men of quality, men of eſtates, when there wealth was a refining at <hi>Goldſmiths</hi> Half: they payed me, I got by it and ever ſince I hated them, tis agreat eye-ſore Gentlemen, nay tis a heart-breaking when any per<g ref="char:EOLhyphen"/>ſon can hit it in our teeth that <hi>they</hi> raiſed us; Oh thoſe ſteps muſt be pulled down: by ſuch worthy acts I thought to have endeared the City, and Conſe<g ref="char:EOLhyphen"/>quently to have merited an <hi>everlaſting</hi> Government, and truly I muſt confeſſe it was (as a worthy Alder<g ref="char:EOLhyphen"/>man lately ſayd) my own ſeeking, and can you blame me for ſuch a ſeeking? the <hi>great-men,</hi> the Go<g ref="char:EOLhyphen"/>vernours <hi>the Parliament</hi> they approved of my ſeeking, but you were not pleaſed with it, you were offended,
+<pb n="3" facs="tcp:115010:2"/>you cryed out of your <hi>Privileges,</hi> that you ſhould <hi>looſe</hi> your Charter. Why Gentlemen is it not better you ſhould loſe your Charter then I the reward of any good ſervice? If old things are to be laid aſide, you might have as well laid aſide your old Charter, as refuſe me, for fear I ſhould be an old Mayor. Truly Gentlemen yee need not court the Mayoralty ſo much, for there are no Protectors to Knight yee now as ſoon as yee are out of your time. I am ſorry that a roll of Parchment ſhould ſtick ſo in your ſto<g ref="char:EOLhyphen"/>machs, pray God you may be able to digeſt it, I am much afflicted to ſee you have ſo little manners in you, I am ſure you have choſen a thouſand Mayors and you might have given the Parliament leave to chooſe one. I was once a Mercer, and cheated the people with falſe lights, then I became Religious, and cheated them with falſe lights, afterwards I was a Publican, and conſequently a publick ſinner, but as I am a ſinner, did not think you would have us'd me ſo unkindly; what need you keep ſuch a ſtir with your <hi>Charter,</hi> ſuppoſe you had never a <hi>Mayor,</hi> do you think your City would periſh? Pray tell me where do you find that the City which <hi>Cain</hi> built in the Land of <hi>Nod</hi> had any <hi>Mayors?</hi> and yet for all that, I know it was Govern'd as well as <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> Beſides, I read no where in Scripture that there were any <hi>Mayors</hi> of Cities; indeed we hear of Kings of particular Towns, as of <hi>Sodom,</hi> and <hi>Gomorrha</hi> &amp;c. I would I were <hi>King of London,</hi> I believe I ſhould be as great a King as <hi>Kedor-laomer,</hi> for all his hard name: I have likewiſe heard of the <hi>Rulers</hi> of the City, but now I perceive a <hi>Mayor</hi> is no <hi>Ruler</hi> of your City,
+<pb n="4" facs="tcp:115010:3"/>for if I could have rul'd this City, you may be ſure I would have had my will a little better than now I have. But hang't, let it go; take your <hi>Mayorality</hi> and your <hi>Charter;</hi> and wipe your <hi>tayles</hi> with your Char<g ref="char:EOLhyphen"/>ter and your Mayorality. For when I conſider what Metaphorical girds the <hi>Mayor</hi> is liable too, truly I cannot conceive it ſo great a dignity as you imagine, for ſome men call me <hi>Swin-herd</hi> of the peo<g ref="char:EOLhyphen"/>ple, ſome call me <hi>Goat-herd</hi> of the people, and ſome <hi>Shep-herd</hi> of the people; againſt the two latter, I knew not how to defend my ſelf, conſidering your <hi>tameneſſe</hi> and <hi>wantonneſſe,</hi> but for the firſt, ſaid I, Gentlemen, pray do not lay that aſperſion upon me, for I never ſaw any Beaſt break under my charge but what had hornes on. Well I cannot blame ye, for men are covetous of novelties: Nor can I blame my ſelf, for having an ill opinion of ye, for you were always deſerters of your friends, no longer pipe no longer dance with you; If the Parliament be <hi>interrupted,</hi> then <hi>Oliver</hi> his red Noſe muſt be met by you with Hoſannaes, all the glories you can invent are too little for his <hi>Highneſſes</hi> entertainment; he is no ſoon<g ref="char:EOLhyphen"/>er dead but you creep to his Son, no ſooner did he like a tame foole yield up his power, but ye whirld off to the Parliament; truly friends he deſerves to be whipt, who pulls down his breeches for the laſh, Oh that <hi>Prince</hi> that would be, had a ſoft place in his head, and did he think we would ſtand up for a fool? Nay verily we are other wiſe taught. The <hi>Good old Cauſe</hi> appeared, Oh the Good old Cauſe! who would but fight for the Good old Cauſe? On the ſweet air of a Common-wealth! It makes me rejoyce to breath in
+<pb n="5" facs="tcp:115010:3"/>it; I played <hi>Rex,</hi> I <hi>domineer'd</hi> and playd the Devill &amp;c. <hi>Gods ſake;</hi> for to have playd the Devill any otherwiſe had been Prophane, Unſafe, and perhaps unproſpe<g ref="char:EOLhyphen"/>rous. Yet give me leave to tell ye, I think I acted my part better than he, for he kept a noiſe and buſtle in the World to no purpoſe; I did my buſineſſe qui<g ref="char:EOLhyphen"/>etly, making no noiſe but only with my tongue and my horſe heels; He only pull'd up <hi>Trees,</hi> I rooted up <hi>Men,</hi> mine and your Enemies, Some have ſaid, that the Devill's an Aſſe; truly I beleive it, For we hear how St. <hi>Dunſtan</hi> pull'd him by the noſe; and we ſee how every Conjurer, with ſaying a head word or two, is able to ſend him on every pitty full errand, though it be only to fetch a farthing-worth of muſt<g ref="char:EOLhyphen"/>ard. Some have ſaid that he is <hi>honeſter than we are:</hi> but would they could make it out, Ile aſſure you they are none of the Devils friends that ſay ſo; for then (a thing which perhaps they little dream on) whereas he thinks to <hi>puniſh</hi> us, we ought, and it muſt be out right to <hi>puniſh</hi> him. For what reaſon were it that he being more wicked than we are, ſhould puniſh us that <hi>are not ſo wicked</hi> as himſelf? And now I think n<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, I have a juſt complaint againſt him in this worſhip<g ref="char:EOLhyphen"/>full Court. I have a houſe here <hi>Marihoue,</hi> for 'tis mine as long as I keep my Office; Now this Raſcally-devill hath had poſſeſſion of it theſe many years; there he keeps open houſe, and ill houres, is tenant at will in his own ſenſe, and yet denys to p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y a far<g ref="char:EOLhyphen"/>thing of rent. Tis true, <hi>poſseſſion is nine points of the Law,</hi> Yet give me leave to tell ye Gentlemen, <hi>right's right,</hi> the loſſe hath been my predeceſſors, is this year mine, and will be yours, I profeſs brother, if you do
+<pb n="6" facs="tcp:115010:4"/>not take ſome ſpeedy courſe with him.</p>
+            <p>But they ſay the Devill can appear in ſundry diſ<g ref="char:EOLhyphen"/>guiſes to fright people; ſo can I too, Did not I trans<g ref="char:EOLhyphen"/>form my ſelf into any ſhape? I was a <hi>Dipper,</hi> a <hi>Qua<g ref="char:EOLhyphen"/>ker,</hi> and what not, whereby I might fright the City to perfect my deſigns; how was I fayn to labor to ſettle the <hi>Militia</hi> therein, and what did I leave unattemp<g ref="char:EOLhyphen"/>ted to confirm my ſelf in the Government, whereby you would have been for-ever enſlaved? but the <hi>Aſſe</hi> would not crouch, the <hi>Jade</hi> grew skittiſh, and I was forced to leave my ſeat: but thanks to my <hi>Great Maſt<g ref="char:EOLhyphen"/>ers</hi> I went not off unrewarded: tis ſomthing Ile aſ<g ref="char:EOLhyphen"/>ſure you to be Commiſſioner of the <hi>Exciſe:</hi> to have a good <hi>Salary</hi> and always to be ſinging money is a fit<g ref="char:EOLhyphen"/>ting reward for a <hi>Saint,</hi> elſe why ſhould my good friend <hi>Mr. Prayſe God Barebone</hi> be made <hi>Controuler</hi> of the Treaſury for ſequeſtrations, with 300 <abbr>l.</abbr> 
+               <hi>per an<g ref="char:EOLhyphen"/>num</hi> ſalary? Believe it, the <hi>Saints</hi> ought to enjoy the earth, although the <hi>wicked</hi> repine and murmure ther<g ref="char:EOLhyphen"/>at. But my <hi>Stomack,</hi> which now ſticks to me when all my friends are leaving me, tels me now there is much to be done, little more to be ſaid: There are certain Pies and Cuſtards, which expect my <hi>Mittimus</hi> to ſend them down into my belly; and therefore I muſt haſten home; yet before I goe, give me leave to juſti<g ref="char:EOLunhyphen"/>fie my ſelf, as old <hi>Samuel</hi> did at his <hi>exit</hi> off the ſtage of his employment. What my original was I need not diſcover; yet were it never ſo mean, I have heard of as mean men that have been Lord <hi>Mayors</hi> of <hi>London.</hi> What think ye of <hi>Whittington,</hi> whoſe <hi>Cat</hi> was a great<g ref="char:EOLhyphen"/>er ſtock to him then <hi>Duttons</hi> nineteen thouſand and odd ſheep, Truly there ſeemes to be ſomthing more
+<pb n="7" facs="tcp:115010:4"/>in a <hi>Cat</hi> than ordinary; for they are the embleme of <hi>Gravity</hi> and <hi>Formality,</hi> which two things: are very re<g ref="char:EOLhyphen"/>quiſite for a <hi>Citizen</hi> that will <hi>thrive;</hi> They keep much at home; to ſhew a ſhop keeper muſt never be out of his ſhop; They <hi>hunt</hi> after Mice thereby teaching a Citizen to <hi>hunt</hi> after mony, and then they creep with eagerneſſe on their prey, to ſhew how eager a Citi<g ref="char:EOLhyphen"/>zen muſt be to finger mony. O thou bleffed thing cal<g ref="char:EOLhyphen"/>led mony what have not I attmpted for thy ſake if it lay within my power? mony is that balm of <hi>Gile<g ref="char:EOLhyphen"/>ad</hi> that healeth the wounds of misfortune, and cures the aches of your mind; it maketh a man a Saint, it maketh him a Devill; it plumpeth up your wives, and enables them for the work of generation; Mony is the cream offelicity; it is better than the <hi>Crums of Comfort,</hi> yea it is comfort it ſelf. Therefore faith the wiſeman, My Child get mony in thy purſe.</p>
+            <p>Let me ſpeak a little for my Juſtice; was not my Sword a terrour to the <hi>Bakers?</hi> at the old Bayly I us'd to hang as many as I could for my life, and would have hang'd more, if the Judge would have let me; Could I have had my will I would have hang'd up all the <hi>Cavaleers,</hi> men that ride on horſe-back to the terrour of the <hi>Saints.</hi> But will you ſay then all men that ride on horſe-back are Cavaleers? No god forbid; for then you all ſhould be Cavaleers; Beſides, I can aſſure you ſome of them are ſayn to go on foot; &amp; indeed we have made them ſo poor, God be thanked, that they are not able to buy Horſes: give them horſes, and they'l <hi>ride upon our ſhoulders:</hi> but I hope I have taken an order with them this Summer.</p>
+            <pb n="8" facs="tcp:115010:5"/>
+            <p>For my <hi>Charity</hi> I find it very cold, and therefore dare not let it come near my heart, by reaſon of its venomous and benumming quality.</p>
+            <p>For my <hi>Honeſty</hi> I ſhall ſay little; moſt men know it better than my ſelf. I ſhall ſay only this, that if I have cozen'd the State, I have done no more than what my Companions did, and what I can juſtifie from the example and continual practice of the Church.</p>
+            <p>As for my <hi>Religion</hi> I have I think as much as any o<g ref="char:EOLhyphen"/>ther among ye; tis true I can change it upon any <hi>lawfull occaſion;</hi> for there is no reaſon a man ſhould <hi>deſtroy</hi> himſelf, and it is a point of Religion to be o<g ref="char:EOLhyphen"/>bedient <hi>to Superior powers.</hi>
+            </p>
+            <p>If I have done any body wrong; as for ſome of them I care not a pin, as for others; if they will for<g ref="char:EOLhyphen"/>give me, ſo, if not, let them let it alone; for thanks to our Maſters, my faults, and the faults of all ſuch as I am, are blotted out; And one Act of <hi>oblivion</hi> is to us as if we had taſted of ſo much <hi>Lethe;</hi> and now I think on't, I wonder <hi>Lethe</hi> is not us'd inſtead of <hi>Coffee,</hi> Oh tis a <hi>precious</hi> drink; it makes us forget our <hi>Allegi<g ref="char:EOLhyphen"/>ance,</hi> our <hi>Religion,</hi> our <hi>Friends,</hi> we can think of no<g ref="char:EOLhyphen"/>thing but what is for our <hi>preſent</hi> turn: but 'twas well for you that drink was not in faſhion, for if it had, then had the Parliament forgotten all thoſe <hi>promiſes</hi> in your late <hi>Petition</hi> mentioned: but all is well that ends well: but I have done, for ſince friends muſt part, better here than at the <hi>Gallows.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
